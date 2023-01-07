@@ -1,0 +1,15 @@
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\ValidarCPF\obj\Debug\net6.0\ValidarCPF.csproj.AssemblyReference.cache
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\ValidarCPF\obj\Debug\net6.0\ValidarCPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\ValidarCPF\obj\Debug\net6.0\ValidarCPF.AssemblyInfoInputs.cache
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\ValidarCPF\obj\Debug\net6.0\ValidarCPF.AssemblyInfo.cs
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\ValidarCPF\obj\Debug\net6.0\ValidarCPF.csproj.CoreCompileInputs.cache
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\ValidarCPF\bin\Debug\net6.0\ValidarCPF.exe
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\ValidarCPF\bin\Debug\net6.0\ValidarCPF.deps.json
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\ValidarCPF\bin\Debug\net6.0\ValidarCPF.runtimeconfig.json
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\ValidarCPF\bin\Debug\net6.0\ValidarCPF.dll
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\ValidarCPF\bin\Debug\net6.0\ValidarCPF.pdb
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\ValidarCPF\obj\Debug\net6.0\ValidarCPF.dll
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\ValidarCPF\obj\Debug\net6.0\refint\ValidarCPF.dll
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\ValidarCPF\obj\Debug\net6.0\ValidarCPF.pdb
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\ValidarCPF\obj\Debug\net6.0\ValidarCPF.genruntimeconfig.cache
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\ValidarCPF\obj\Debug\net6.0\ref\ValidarCPF.dll
